@@ -12,7 +12,7 @@
 
 <ul align="left">
   <li>My name is Aarul Kumar</li>
-  <li>I am a pre-final year student at VIT Bhopal University, studying Computer Science Engineering</li>
+  <li>I am a pre-final year student at VIT Bhopal University, studying CSE</li>
   <li>You can reach me at 
     <a href="mailto:aarulk0110@gmail.com">aarulk0110@gmail.com</a>
   </li>
