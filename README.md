@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarul Kumar</h1>
 <h3 align="center">I’m a junior-year undergrad majoring in Computer Science at VIT Bhopal University</h3>
-<img align="right" alt="coding cat" width="400" src="https://user-images.githubusercontent.com/70488161/223810581-63a68402-29c7-4e7e-9ada-618255fa80a1.gif">
+<img align="left" alt="coding cat" width="400" src="https://user-images.githubusercontent.com/70488161/223810581-63a68402-29c7-4e7e-9ada-618255fa80a1.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
