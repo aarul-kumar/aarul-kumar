@@ -19,12 +19,12 @@ I focus on developing practical solutions to real-world problems with performanc
 
 ## About My Latest Projects
 
-- ### LawBot
+### LawBot
 *Python, FAISS, LangChain, Llama 3, Pinecone, Whisper, FastAPI*
 
 An AI assistant to help citizens understand legal rights, file basic grievances, and access government schemes, addressing the challenge of navigating complex, unstructured legal documents.
 
-- ### Cognitive Log Classification Engine
+### Cognitive Log Classification Engine
 *Python, scikit-learn, Sentence Transformers, LLMs, Pandas, Regex, FastAPI*
 
 An end-to-end hybrid log classification system that accurately categorizes inconsistent and unstructured system logs, thereby reducing manual triaging and improving incident detection. It addresses challenges such as noisy formats and limited labeled data where traditional ML models struggle.
