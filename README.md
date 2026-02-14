@@ -33,4 +33,4 @@ An end-to-end hybrid log classification system that accurately categorizes incon
 
 ## Beyond Code
 
-- Caffè mocha with croissant makes my day
+- Caffè mocha, a croissant, and a good novel make my day.
