@@ -10,10 +10,12 @@ I focus on developing practical solutions to real-world problems with performanc
 ## Tools & Tech
 
 - Programming Languages: Java, Python, JavaScript  
-- Frontend & Frameworks: React, Next.js, Tailwind CSS  
-- Backend & APIs: Node.js, Express.js, RESTful APIs, FastAPI  
+- Frontend & Frameworks: React, Next.js, HTML, Tailwind CSS  
+- Backend & APIs: Node.js, Express.js, REST APIs, FastAPI  
 - Databases & ORMs: PostgreSQL, MySQL, MongoDB  
-- Machine Learning: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy
+- Machine Learning & AI: PyTorch, TensorFlow, scikit-learn, LLMs, RAG
+- Data Analysis & Visualization: Pandas, NumPy, Power BI, Tableau
+- Tools & Platforms: Docker, AWS, Git, Postman
 
 ---
 
