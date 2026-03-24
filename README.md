@@ -30,9 +30,3 @@ An AI assistant to help citizens understand legal rights, file basic grievances,
 *Python, scikit-learn, Sentence Transformers, LLMs, Pandas, Regex, FastAPI*
 
 An end-to-end hybrid log classification system that accurately categorizes inconsistent and unstructured system logs, thereby reducing manual triaging and improving incident detection. It addresses challenges such as noisy formats and limited labeled data where traditional ML models struggle.
-
----
-
-## Beyond Code
-
-☕ Caffè mocha, a croissant, and a good novel make my day.
