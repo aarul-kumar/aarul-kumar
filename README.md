@@ -5,6 +5,7 @@ I have experience in full-stack development and AI-driven applications, with han
 
 I focus on developing practical solutions to real-world problems with performance, reliability, and maintainability in mind.
 
+---
 
 ## Tools & Tech
 
@@ -16,6 +17,7 @@ I focus on developing practical solutions to real-world problems with performanc
 - Data Analysis & Visualization: Pandas, NumPy, Power BI, Tableau
 - Tools & Platforms: Docker, AWS, Git, Postman
 
+---
 
 ## About My Latest Projects
 
