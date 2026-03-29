@@ -5,8 +5,6 @@ I have experience in full-stack development and AI-driven applications, with han
 
 I focus on developing practical solutions to real-world problems with performance, reliability, and maintainability in mind.
 
----
-
 ## Tools & Tech
 
 - Programming Languages: Java, Python, JavaScript  
@@ -16,8 +14,6 @@ I focus on developing practical solutions to real-world problems with performanc
 - Machine Learning & AI: PyTorch, TensorFlow, scikit-learn, LLMs, RAG
 - Data Analysis & Visualization: Pandas, NumPy, Power BI, Tableau
 - Tools & Platforms: Docker, AWS, Git, Postman
-
----
 
 ## About My Latest Projects
 
