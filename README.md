@@ -23,6 +23,7 @@ I focus on developing practical solutions to real-world problems with performanc
 
 ### Wanderlust
 *Node.js, Express.js, MongoDB, EJS, Cloudinary, Passport.js, Mapbox*
+
 Wanderlust is a full-stack web application inspired by Airbnb, designed to help users discover unique stays, create property listings, and share travel experiences. It enables exploring destinations, managing listings, uploading images, and interacting through reviews in a seamless and user-friendly experience. Built with a focus on simplicity and usability, the platform delivers a smooth experience for both travelers and hosts.
 
 ### LawBot
