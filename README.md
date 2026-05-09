@@ -21,8 +21,9 @@ I focus on developing practical solutions to real-world problems with performanc
 
 ## About My Latest Projects
 
-### Wanderlust (Ongoing)
-Wanderlust is a full-stack web application inspired by Airbnb, designed to simplify the process of discovering and booking unique stays around the world. It offers a wide range of functionalities including user authentication, property listings, image uploads, reviews, and secure booking features. Users can explore destinations, create and manage listings, and share their experiences through ratings and comments. Built with modern technologies, Wanderlust focuses on providing a seamless, responsive, and user-friendly experience for both hosts and travelers.
+### Wanderlust
+*Node.js, Express.js, MongoDB, EJS, Cloudinary, Passport.js, Mapbox*
+Wanderlust is a full-stack web application inspired by Airbnb, designed to help users discover unique stays, create property listings, and share travel experiences. It enables exploring destinations, managing listings, uploading images, and interacting through reviews in a seamless and user-friendly experience. Built with a focus on simplicity and usability, the platform delivers a smooth experience for both travelers and hosts.
 
 ### LawBot
 *Python, FAISS, LangChain, Llama 3, Pinecone, Whisper, FastAPI*
