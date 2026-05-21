@@ -20,10 +20,10 @@ I focus on developing practical solutions to real-world problems with performanc
 
 ## About My Latest Projects
 
-### Wanderlust
-*Node.js, Express.js, MongoDB, EJS, Cloudinary, Passport.js, Mapbox*
+### MeshPay
+*Java 17, Spring Boot, Spring Data JPA, H2, Distributed Systems, Cryptography, Concurrency*
 
-Wanderlust is a full-stack web application inspired by Airbnb, designed to help users discover unique stays, create property listings, and share travel experiences. It enables exploring destinations, managing listings, uploading images, and interacting through reviews in a seamless and user-friendly experience. Built with a focus on simplicity and usability, the platform delivers a smooth experience for both travelers and hosts.
+MeshPay is a distributed offline payment and settlement engine that enables secure digital transactions even without internet connectivity by propagating encrypted payment packets through a device-to-device mesh network. It ensures exactly-once settlement, strong cryptographic protection (RSA + AES-GCM), and replay-safe, idempotent processing once any node reconnects to the backend.
 
 ### LawBot
 *Python, FAISS, LangChain, Llama 3, Pinecone, Whisper, FastAPI*
