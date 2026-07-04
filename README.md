@@ -1,4 +1,5 @@
-## *Neil Armstrong called it "one small step for man." Mine usually starts with one small git commit, followed by several giant leaps of faith when I hit deploy.*
+## Hey there 👋
+
 I'm Aarul, a Computer Science student at Vellore Institute of Technology with a strong interest in building scalable, user-centric systems.
 
 I have experience in full-stack development and AI-driven applications, with hands-on exposure to system design principles and backend architecture.
